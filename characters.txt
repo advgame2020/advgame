@@ -9,7 +9,7 @@ option_4		#George#
 correct_answer		#2#
 win_msg			#Good job, son. But, this year the world is going to miss Christmas #
 lose_msg		#No.. I'm sorry, he's my friend Rudolf!#
-author      #Nicolab#
+author          #Nicolab#
 @
 name			#Prof. Cheese#
 appearance		#He's a fit good looking man, he's washing his hands with reusable wipes. #
@@ -21,4 +21,4 @@ option_4		#George#
 correct_answer		#2#
 win_msg			#Correct!! you followed my lessons, didn't you?#
 lose_msg		#Wrong!... but here's a wipe for your hands!#
-author      #Nicolab#
+author          #Nicolab#
