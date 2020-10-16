@@ -68,3 +68,17 @@ win_msg			#ANDY#
 lose_msg		#ANDY#
 outro_win		#ANDY#
 outro_lose		#ANDY#
+@
+name			#FKEO#
+encounter_desc		##
+intro_msg		#FEKO#
+question		#FEKO#
+option_1		#FEKO#
+option_2		#FEKO#
+option_3		#FEKO#
+option_4		#FEKO#
+correct_answer		#FEKO#
+win_msg			#FEKO#
+lose_msg		#FEKO#
+outro_win		##
+outro_lose		##
