@@ -31,6 +31,6 @@ option_2		#324234rewds243wcd#
 option_3		#Yellow#
 option_4		#White#
 correct_answer		#3#
-win_msg			#Fantastic! That was a hard quue#
+win_msg			#Fantastic! That was a hard question but you were able to get it correctly! Good job hooman#
 lose_msg		#Merp#
 author			#Andeeù#
