@@ -22,3 +22,15 @@ correct_answer		#3#
 win_msg			#Correct!! you followed my lessons, didn't you?#
 lose_msg		#Wrong!... but here's a wipe for your hands!#
 author			#Nicolab#
+@
+name			#andsxxxxx#
+apperance		#she's 22 and 5'4 tall. she loves coffee as much as she hates carrots. #
+question		#What is the color of the moon #
+option_1		#Orange#
+option_2		#324234rewds243wcd#
+option_3		#Yellow#
+option_4		#White#
+correct_answer		#3#
+win_msg			#Fantastic! That was a hard quue#
+lose_msg		#Merp#
+author			#Andeeù#
