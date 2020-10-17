@@ -22,3 +22,15 @@ correct_answer		#3#
 win_msg			#Correct!! you followed my lessons, didn't you?#
 lose_msg		#Wrong!... but here's a wipe for your hands!#
 author			#Nicolab#
+@
+name			#sunio#
+apperance		#test#
+question		#test#
+option_1		#1#
+option_2		#2#
+option_3		#3#
+option_4		#4#
+correct_answer		#2#
+win_msg			#correct#
+lose_msg		#wrong#
+author			#nico#
