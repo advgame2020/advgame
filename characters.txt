@@ -22,3 +22,15 @@ correct_answer		#3#
 win_msg			#Correct!! you followed my lessons, didn't you?#
 lose_msg		#Wrong!... but here's a wipe for your hands!#
 author			#Nicolab#
+@
+name			#Suino#
+apperance		#fat#
+question		#favorite food#
+option_1		#one#
+option_2		#two#
+option_3		#three#
+option_4		#4#
+correct_answer		#2#
+win_msg			#Good job#
+lose_msg		#Wrong!#
+author			##
