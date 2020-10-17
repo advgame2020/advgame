@@ -22,15 +22,3 @@ correct_answer		#3#
 win_msg			#Correct!! you followed my lessons, didn't you?#
 lose_msg		#Wrong!... but here's a wipe for your hands!#
 author			#Nicolab#
-@
-name			#a#
-apperance		##
-question		##
-option_1		##
-option_2		##
-option_3		##
-option_4		##
-correct_answer		##
-win_msg			##
-lose_msg		##
-author			##
