@@ -22,3 +22,15 @@ correct_answer		#3#
 win_msg			#Correct!! you followed my lessons, didn't you?#
 lose_msg		#Wrong!... but here's a wipe for your hands!#
 author			#Nicolab#
+@
+name			#laura#
+apperance		#tall and brunette#
+question		#how old are you?#
+option_1		#12#
+option_2		#41#
+option_3		#22#
+option_4		#18#
+correct_answer		#1#
+win_msg			#How are you?#
+lose_msg		#Get a free crou#
+author			#elisa#
