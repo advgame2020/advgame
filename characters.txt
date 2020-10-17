@@ -6,7 +6,7 @@ option_1		#Rudolf#
 option_2		#Lainer#
 option_3		#Mandonf#
 option_4		#George#
-correct_answer		#2#
+correct_answer		#1#
 win_msg			#Good job, son. But, this year the world is going to miss Christmas#
 lose_msg		#No.. I'm sorry, he's my friend Rudolf!#
 author			#Nicolab#
