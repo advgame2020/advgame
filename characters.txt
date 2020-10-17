@@ -34,3 +34,15 @@ correct_answer		#2#
 win_msg			#correct#
 lose_msg		#wrong#
 author			#nico#
+@
+name			#y#
+apperance		#y#
+question		#y#
+option_1		#y#
+option_2		#y#
+option_3		#4#
+option_4		#5#
+correct_answer		#2#
+win_msg			##
+lose_msg		#yes#
+author			#nico#
