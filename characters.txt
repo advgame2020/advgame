@@ -1,24 +1,36 @@
 @
 name			#Claus#
-appearance		#He's a tall man with a long white beard. He's very thin now but from his oversize clothes he seems he used to be quite fat#
+apperance		#He's a tall man with a long white beard. He's very thin now but from his oversize clothes he seems he used to be quite fat#
 question		#How is it called the first reindeer of min- Santa Claus?#
-option_1		#rudolf#
-option_2		#lainer#
-option_3		#mandonf#
-option_4		#george#
-correct_answer		#1#
-win_msg			#Good job, son. But, this year the world is going to miss Christmas #
+option_1		#Rudolf#
+option_2		#Lainer#
+option_3		#Mandonf#
+option_4		#George#
+correct_answer		#2#
+win_msg			#Good job, son. But, this year the world is going to miss Christmas#
 lose_msg		#No.. I'm sorry, he's my friend Rudolf!#
-author          #Nicolab#
+author			#Nicolab#
 @
 name			#Prof. Cheese#
-appearance		#He's a fit good looking man, he's washing his hands with reusable wipes. #
+apperance		#He's a fit good looking man, he's washing his hands with reusable wipes.#
 question		#What famous celebrity was born on the same day the first version of Python was released?#
-option_1		#dylan o'brien#
-option_2		#emma roberts#
-option_3		#taylor swift#
-option_4		#ashley park#
+option_1		#Dylan O'Brien#
+option_2		#Emma Roberts#
+option_3		#Taylor Swift#
+option_4		#Ashley Park#
 correct_answer		#3#
-win_msg			#Correct!! You attended my lessons, didn't you?#
+win_msg			#Correct!! you followed my lessons, didn't you?#
 lose_msg		#Wrong!... but here's a wipe for your hands!#
-author          #Nicolab#
+author			#Nicolab#
+@
+name			#a#
+apperance		##
+question		##
+option_1		##
+option_2		##
+option_3		##
+option_4		##
+correct_answer		##
+win_msg			##
+lose_msg		##
+author			##
