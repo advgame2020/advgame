@@ -1,6 +1,6 @@
 @
 name			#Claus#
-apperance		#He's a tall man with a long white beard. He's very thin now but from his oversize clothes he seems he used to be quite fat#
+apperance		#He's a tall man with a long white beard. He's very thin now but from his oversize clothes, he used to be quite fat.#
 question		#How is it called the first reindeer of min- Santa Claus?#
 option_1		#Rudolf#
 option_2		#Lainer#
